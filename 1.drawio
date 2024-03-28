@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T13:58:19.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="QJNNhnGrsjhrbo_55XVF" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T14:12:57.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="j-KP22j-2S4pn4Vj3uan" version="24.2.0" type="github">
   <diagram name="第 1 页" id="B0zzKdLnN7VyZFPrtqK-">
     <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,39 +7,16 @@
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-134" value="&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Task Data&lt;/font&gt;&lt;/b&gt;" style="shape=note;size=16;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=25;fontFamily=Georgia;shadow=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="200" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="r1x_ku_KpZgGCFtbqFm0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="r1x_ku_KpZgGCFtbqFm0-38">
+        <mxCell id="r1x_ku_KpZgGCFtbqFm0-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="r1x_ku_KpZgGCFtbqFm0-139">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="140" y="450" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="r1x_ku_KpZgGCFtbqFm0-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r1x_ku_KpZgGCFtbqFm0-36" target="r1x_ku_KpZgGCFtbqFm0-139">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r1x_ku_KpZgGCFtbqFm0-34" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="460" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="r1x_ku_KpZgGCFtbqFm0-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r1x_ku_KpZgGCFtbqFm0-34" target="r1x_ku_KpZgGCFtbqFm0-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="470" as="sourcePoint" />
-            <mxPoint x="540" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r1x_ku_KpZgGCFtbqFm0-38" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="460" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-132" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;Query&quot;: &quot;This text is in English...... translated into Icelandic....... without making any other changes.\n\n&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dakar Youth Olympic Games delayed until 2026\nThe Youth Olympic Games were scheduled to take place in ......&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontFamily=Comic Sans MS;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-133" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&quot;Response&quot;: &quot;Sure, here is the Icelandic translation:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-family: OnPkkb2jUkbVahHAfeM5;&quot;&gt;Ólympíuleikum æskunnar í Dakar frestað til 2026\nÓlympíuleikar æskunnar áttu að fara fram í Dakar á næsta ári en þeim......&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="r1x_ku_KpZgGCFtbqFm0-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r1x_ku_KpZgGCFtbqFm0-134" target="r1x_ku_KpZgGCFtbqFm0-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="460" />
-              <mxPoint x="150" y="460" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-136" value="&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;General Data&lt;/font&gt;&lt;/b&gt;" style="shape=note;size=16;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=25;fontFamily=Georgia;shadow=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="200" height="260" as="geometry" />
@@ -53,6 +30,11 @@
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-141" value="&lt;div&gt;&lt;div&gt;&quot;Query&quot;:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;What is the capital of France?&quot;,&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontFamily=Comic Sans MS;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="200" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="r1x_ku_KpZgGCFtbqFm0-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r1x_ku_KpZgGCFtbqFm0-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-142" value="&lt;div&gt;&lt;div&gt;&quot;Response&quot;:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;The capital city of France is Paris.&quot;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;fontFamily=Comic Sans MS;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="200" height="110" as="geometry" />
         </mxCell>
@@ -65,15 +47,6 @@
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-147" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="759.29" y="100" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r1x_ku_KpZgGCFtbqFm0-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r1x_ku_KpZgGCFtbqFm0-38" target="r1x_ku_KpZgGCFtbqFm0-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="470" as="sourcePoint" />
-            <mxPoint x="630" y="385" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r1x_ku_KpZgGCFtbqFm0-36" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="375" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-153" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;General Data&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="750" y="280.33000000000004" width="230" height="19.33" as="geometry" />
         </mxCell>
@@ -85,6 +58,11 @@
         </mxCell>
         <mxCell id="r1x_ku_KpZgGCFtbqFm0-162" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Task Learning&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="893.07" y="198.8" width="59.29" height="42.15" as="geometry" />
+        </mxCell>
+        <mxCell id="r1x_ku_KpZgGCFtbqFm0-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r1x_ku_KpZgGCFtbqFm0-133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
