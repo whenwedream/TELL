@@ -46,6 +46,24 @@
         <mxCell id="4vzzuv3VRGTA68ks-000-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;人体姿态&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;估计技术&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="335" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4vzzuv3VRGTA68ks-000-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;智能数据&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;标注框架&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="600" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4vzzuv3VRGTA68ks-000-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;显示面部表情、肢体姿势的关键点&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="520" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4vzzuv3VRGTA68ks-000-28" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;显示疼痛关键帧&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="580" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4vzzuv3VRGTA68ks-000-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;交互功能&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="640" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4vzzuv3VRGTA68ks-000-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;自动检查一致性&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4vzzuv3VRGTA68ks-000-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="50" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
