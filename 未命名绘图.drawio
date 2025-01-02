@@ -1,68 +1,95 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="PckmU6Xt-LkvL1CVS-IU">
     <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4vzzuv3VRGTA68ks-000-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;面部表情&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;分析方法&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;面部表情&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;分析方法&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="280" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="260" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;基于传统&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;特征的方法&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;基于传统&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;特征的方法&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="220" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;深度学习&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;方法&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;深度学习&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;方法&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="330" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="215" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Haar特征&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Haar特征&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="190" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LBP&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;LBP&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="270" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CNN&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CNN&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="342.5" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="4vzzuv3VRGTA68ks-000-6" target="4vzzuv3VRGTA68ks-000-10">
+        <mxCell id="4vzzuv3VRGTA68ks-000-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="4vzzuv3VRGTA68ks-000-6" target="4vzzuv3VRGTA68ks-000-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="370" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;身体动作&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;和&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px; background-color: initial;&quot;&gt;姿势分析&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;身体动作&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;和&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px; background-color: initial;&quot;&gt;姿势分析&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="280" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="265" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;光流法&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;光流法&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="225" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;人体姿态&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;估计技术&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;人体姿态&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;估计技术&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="335" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;智能数据&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;标注框架&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;智能数据&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;标注框架&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="600" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;显示面部表情、肢体姿势的关键点&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;显示面部表情、肢体姿势的关键点&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="520" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-28" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;显示疼痛关键帧&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-28" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;显示疼痛关键帧&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="580" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;交互功能&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;交互功能&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="640" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;自动检查一致性&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;自动检查一致性&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="700" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4vzzuv3VRGTA68ks-000-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="4vzzuv3VRGTA68ks-000-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="540" width="50" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;面向无约束环境的&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;新生儿疼痛视频数据集&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1380" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;标注干扰情况&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;标注疼痛程度&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1360" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1270" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;面部遮挡&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;面部姿态差异&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1300" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;身体遮挡&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2018px%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%E9%9D%A2%E9%83%A8%E5%A7%BF%E6%80%81%E5%B7%AE%E5%BC%82%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3BgradientColor%3Dnone%3Bglass%3D0%3Bshadow%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22600%22%20y%3D%221320%22%20width%3D%22130%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1360" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhEZDVeV2pZNFDaIWWRL-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;他人运动干扰&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1420" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
