@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="o4bg590sflcZv3ZJEmaw">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f0CZv99xwKZQba2sfQjQ-19" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.375;rotation=-15;labelBackgroundColor=none;textOpacity=30;textShadow=1;labelBorderColor=light-dark(#bfbbbb, #ededed);shadow=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="78.29" height="99.66" as="geometry" />
+        </mxCell>
+        <mxCell id="f0CZv99xwKZQba2sfQjQ-20" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.375;rotation=-15;labelBackgroundColor=none;textOpacity=30;textShadow=1;labelBorderColor=light-dark(#bfbbbb, #ededed);shadow=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="78.29" height="99.66" as="geometry" />
+        </mxCell>
+        <mxCell id="f0CZv99xwKZQba2sfQjQ-21" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.375;rotation=-15;labelBackgroundColor=none;textOpacity=30;textShadow=1;labelBorderColor=light-dark(#bfbbbb, #ededed);shadow=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="78.29" height="99.66" as="geometry" />
+        </mxCell>
+        <mxCell id="f0CZv99xwKZQba2sfQjQ-22" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.375;rotation=-15;labelBackgroundColor=none;textOpacity=30;textShadow=1;labelBorderColor=light-dark(#bfbbbb, #ededed);shadow=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="78.29" height="99.66" as="geometry" />
+        </mxCell>
+        <mxCell id="f0CZv99xwKZQba2sfQjQ-23" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.375;rotation=-15;labelBackgroundColor=none;textOpacity=30;textShadow=1;labelBorderColor=light-dark(#bfbbbb, #ededed);shadow=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="78.29" height="99.66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
